@@ -8,6 +8,6 @@
 1. Mostafa Abokhadra Email: mbukhadra@gmail.com
 2. Mostafa Mokhtar Email: mostafa51moktar@gmail.com
 
-project google doc [link](https://docs.google.com/document/d/1vWEgJNxqc-wJS8SqDh7zGyFvmYb8LB2X2TIWphO5bI4/edit?usp=sharing)
+project alx-specifications [document](https://docs.google.com/document/d/1vWEgJNxqc-wJS8SqDh7zGyFvmYb8LB2X2TIWphO5bI4/edit?usp=sharing)
 
-project google [slides]()
+project alx-specifications [slides]()
