@@ -1,14 +1,20 @@
 # Deign, Flow and archeticture
 
 ### Features:
-- Authentication system
-- Forget pass, update
-- addToChart, checkOut
-- Paying system
-- Profile
-- addToFav
-- Search
-- Comment, rate
+- Authentication system (signin, login)
+- Forget pass (resetPass)
+- update (updatePass)
+- addToChart (addOrder)
+- deleteFromCart(deleteOrder)
+- checkOut (CheckOut(Paying system))
+- Profile (profile)(update)(favorites)(currentOrder)(stateOfOrder)(historyOfPayement)
+- addToFav (addtofav)
+- Search (search) 
+- review table
+  	- bookid
+	- Comment (addComment)
+	- rate
+
 - Users can sell his books with lower price
 - admin:
     - CURD
