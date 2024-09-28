@@ -1,1 +1,30 @@
 ### done
+- backEnd developers descussion about the libraries needed in the backend
+- initially agreed on:-
+  - **express**: for server creation and routes handling
+  - **sequalize**: for my sqldb management
+  - **express-session**: for session management
+  - **passport.js**: for authentication system (jwt may be considered)
+  - **bcrypt**: to hash passwords
+  - **nodemailer**: to handle forget password functionality
+  - **crypto**: to generate secure token for password reset
+  - **express-validator**: to validate posted data
+  - **strip***: for paying system
+- agreed on 3 to 5 days to learn these
+- **backEnd initail tasks distribution as follows:**
+    - **Mostafa Abokhadra**
+      - Authentication system (signin, login)
+      - Forget pass (resetPass)
+      - update (updatePass)
+      - addToChart (addOrder)
+      - deleteFromCart(deleteOrder)
+      - checkOut (CheckOut(Paying system))
+    - **Mostafa Mokhtar**
+      - addToFav (addtofav)
+      - Search (search)
+      - review table
+      - bookid
+      - Comment (addComment)
+      - rate
+      - Users can sell his books with lower price
+      - admin: CURD
