@@ -13,3 +13,5 @@ project alx-specifications [document](https://docs.google.com/document/d/1vWEgJN
 project alx-specifications [slides](https://docs.google.com/presentation/d/10OOaXtx5DFEFgzb9gkWo6CfTdABnVaAu/edit?usp=sharing&ouid=109549411909019834180&rtpof=true&sd=true)
 
 project [pitch](https://drive.google.com/file/d/1HPxavJjozMOKMbLPfZfldOsloR3uC5jU/view?usp=drivesdk)
+
+[trello](https://trello.com/invite/66f6bc583cd65078f778490a/ATTI34d1bd665bacd3c36adcce3f8be60989A0419056) workSpace
