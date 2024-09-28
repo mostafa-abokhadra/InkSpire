@@ -6,3 +6,4 @@
 - trello workSpace is done
 - google slides presentaion is done
 - dataBase initial code is done
+- making a 10-minute record for presenting our project idea and purpose is done
