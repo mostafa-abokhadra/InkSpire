@@ -1,5 +1,11 @@
 # A book store project
 
+<img src="C:\Users\Admin\Desktop\ALX Portofolio\1. Pitch\1. InkSpire\Images\Main_logo.png" style="height:400px; width:500px; margin:0; "> => => An online store with a different perspective, .....!
+
+It brings together authors who can publish their books at the same time that book enthusiasts come to find the best new and distinctive releases in one place. 
+
+
+
 ### Created By:
 #### FrontEnd Developers
 1. Momen Sameh Email: momensameh5@gmail.com
@@ -11,7 +17,3 @@
 project alx-specifications [document](https://docs.google.com/document/d/1vWEgJNxqc-wJS8SqDh7zGyFvmYb8LB2X2TIWphO5bI4/edit?usp=sharing)
 
 project alx-specifications [slides](https://docs.google.com/presentation/d/10OOaXtx5DFEFgzb9gkWo6CfTdABnVaAu/edit?usp=sharing&ouid=109549411909019834180&rtpof=true&sd=true)
-
-project [pitch](https://drive.google.com/file/d/1HPxavJjozMOKMbLPfZfldOsloR3uC5jU/view?usp=drivesdk)
-
-[trello](https://trello.com/invite/66f6bc583cd65078f778490a/ATTI34d1bd665bacd3c36adcce3f8be60989A0419056) workSpace
