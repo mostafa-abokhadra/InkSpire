@@ -1,0 +1,2 @@
+- bcrypt
+- nodemail, JWT (forget password)
