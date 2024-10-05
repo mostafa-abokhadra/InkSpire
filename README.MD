@@ -1,10 +1,10 @@
 # InkSpier
 
-<img src="Images\Main_logo.png" style="height:300px; width:400px; margin:0; ">   An  online book store with a different perspective, .....!
+<img src="Images\Main_logo.png" align="center" style="height:300px; width:400px; margin:0; "> 
 
-It brings together authors who can publish their books at the same time that book enthusiasts come to find the best new and distinctive releases in one place. 
+An online book store with a different perspective!
 
-
+It brings together authors who can publish their books at the same time that book enthusiasts come to find the best new and distinctive releases in one place.
 
 ### Created By:
 #### FrontEnd Developers
